@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Baden-Württemberg Stuttgart
-=======
 Baden-Württemberg
->>>>>>> f284b93b3856d15145a3c8280ba174eb113c2ddd
+Baden-Württemberg Stuttgart
